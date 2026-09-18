@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kranis-mma-team-live/static/css/main.787f9854.css",
-    "main.js": "/kranis-mma-team-live/static/js/main.466ff364.js",
+    "main.js": "/kranis-mma-team-live/static/js/main.f36605be.js",
     "index.html": "/kranis-mma-team-live/index.html",
     "main.787f9854.css.map": "/kranis-mma-team-live/static/css/main.787f9854.css.map",
-    "main.466ff364.js.map": "/kranis-mma-team-live/static/js/main.466ff364.js.map"
+    "main.f36605be.js.map": "/kranis-mma-team-live/static/js/main.f36605be.js.map"
   },
   "entrypoints": [
     "static/css/main.787f9854.css",
-    "static/js/main.466ff364.js"
+    "static/js/main.f36605be.js"
   ]
 }
